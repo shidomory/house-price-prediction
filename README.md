@@ -1,2 +1,13 @@
-# house-price-prediction
-My first ML project: predicting house prices using Random Forest
+# Предсказание цен на дома (House Prices)
+
+## Описание
+Простая модель машинного обучения, которая предсказывает стоимость домов в Айова (датасет House Prices).
+
+## Что использовал
+- Python
+- pandas — для работы с данными
+- scikit-learn — Random Forest
+- seaborn/matplotlib — визуализация
+
+## Результат
+MAE: ~20,000 долларов (на валидации)
